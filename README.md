@@ -1,4 +1,4 @@
-# Parallax-CSS3
+# Parallax-CSS3 🔳🔲
 
 Projeto criado no curso de Desenvolvimento Web
 
